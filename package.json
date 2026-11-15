@@ -1,0 +1,24 @@
+{
+  "name": "playwright-test2",
+  "version": "1.0.0",
+  "description": "second test project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alia-V/playwright-test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alia-V/playwright-test2/issues"
+  },
+  "homepage": "https://github.com/Alia-V/playwright-test2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6",
+    "dotenv": "^18.0.10"
+  }
+}
